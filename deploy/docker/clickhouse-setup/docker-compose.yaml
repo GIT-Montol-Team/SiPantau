@@ -173,7 +173,7 @@ services:
       ]
     # ports:
     #   - "6060:6060"     # pprof port
-    #   - "8080:8080"     # query-service port
+      - "8080:8080"
     volumes:
       - ./prometheus.yml:/root/config/prometheus.yml
       - ../dashboards:/root/config/dashboards
