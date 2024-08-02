@@ -416,7 +416,7 @@ Thanks
 						<div className="brand-logo" onClick={handleLogoClick}>
 							<img src="/Logos/signoz-brand-logo.svg" alt="SigNoz" />
 
-							<div className="brand-logo-name">SigNoz</div>
+							<div className="brand-logo-name">SiPantau</div>
 						</div>
 					</div>
 
